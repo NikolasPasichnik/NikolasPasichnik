@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hiya! I'm Nikolas Pasichnik! :dog:
+I'm a 3rd-year Software Engineering student at McGill University who loves trying new technologies! 
 
-<!--
-**NikolasPasichnik/NikolasPasichnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## My projects :floppy_disk:
+Please check out my projects along with a brief summary of each of them here!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Technical Experience :computer:
+### Programming Languages
+Java, Python, Javascript, C, Bash, and Powershell 
+### Tools and Frameworks
+Docker, Jenkins, Vue.js, React.js 

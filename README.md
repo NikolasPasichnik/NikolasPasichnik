@@ -3,7 +3,7 @@ I'm a 3rd-year Software Engineering student at McGill University who loves tryin
 
 
 ## My projects :floppy_disk:
-Please check out my projects along with a brief summary of each of them [here]https://github.com/NikolasPasichnik/Portfolio!  
+Please check out my projects along with a brief summary of each of them [here](https://github.com/NikolasPasichnik/Portfolio)!  
 
 
 ## Technical Experience :computer:

@@ -11,3 +11,6 @@ Please check out my projects along with a brief summary of each of them [here](h
 Java, Python, Javascript, C, Bash, and Powershell 
 ### Tools and Frameworks
 Docker, Jenkins, Vue.js, React.js 
+
+## Find out more about me! :point_down:
+Here's my [LinkedIn](www.linkedin.com/in/nikolas-pasichnik)! 

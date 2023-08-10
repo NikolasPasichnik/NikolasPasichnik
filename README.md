@@ -13,4 +13,4 @@ Java, Python, Javascript, C, Bash, and Powershell
 Docker, Jenkins, Vue.js, React.js 
 
 ## Find out more about me! :point_down:
-Here's my [LinkedIn](www.linkedin.com/in/nikolas-pasichnik)! 
+Here's my [LinkedIn](https://www.linkedin.com/in/nikolas-pasichnik/)! 

@@ -1,4 +1,4 @@
-# Hiya! I'm Nikolas Pasichnik! :dog:
+# Hiya There! I'm Nikolas Pasichnik! :dog:
 I'm a 3rd-year Software Engineering student at McGill University who loves trying new technologies! 
 
 

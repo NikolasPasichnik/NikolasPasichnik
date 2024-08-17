@@ -8,9 +8,9 @@ Please check out my projects along with a brief summary of each of them [here](h
 
 ## Technical Experience :computer:
 ### Programming Languages
-Java, Python, Javascript, C, Bash, and Powershell 
+Java, Golang, Python, Javascript, C, Bash, and Powershell 
 ### Tools and Frameworks
-Docker, Jenkins, Vue.js, React.js 
+Docker, Jenkins, Vue.js, React.js, Kafka
 
 ## Find out more about me! :point_down:
 Here's my [LinkedIn](https://www.linkedin.com/in/nikolas-pasichnik/)! 

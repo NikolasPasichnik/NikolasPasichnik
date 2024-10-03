@@ -1,5 +1,5 @@
 # Hiya There! I'm Nikolas Pasichnik! :dog:
-I'm a 3rd-year Software Engineering student at McGill University who loves trying new technologies! 
+I'm a Software Engineering student at McGill University who loves trying new technologies! 
 
 
 ## My projects :floppy_disk:
